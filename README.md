@@ -41,7 +41,10 @@ The system converts a high-frequency clock into 1 Hz and 10 Hz signals, enabling
 ---
 
 ## File Structure  
-
+- **src/** – VHDL source files  
+- **testbench/** – Simulation and verification files  
+- **simulations/** – Waveforms or output results (optional)  
+- **docs/** – Diagrams, notes, or reports  
 
 ---
 
